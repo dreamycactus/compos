@@ -1,0 +1,9 @@
+*.o
+*.depend
+*.layout
+gmon.out
+obj
+bin
+
+# artwork
+artwork
